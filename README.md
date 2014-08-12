@@ -37,8 +37,16 @@ git@github.com:virtusize/website-jp.git
 
 Git commit
 ==========
+1. Using command line
+
 git status
 git add .
 git status /*convey to stage
+
+2. Using git hub cloud
+3. Using loacal git hub software
+
+Git Diff
+==========
 
 
