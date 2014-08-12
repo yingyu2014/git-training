@@ -34,3 +34,11 @@ $ git log
 
 git@github.com:virtusize/website-jp.git
 
+
+Git commit
+==========
+git status
+git add .
+git status /*convey to stage
+
+
